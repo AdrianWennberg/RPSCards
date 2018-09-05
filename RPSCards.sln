@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPSCardsServer", "RPSCardsServer\RPSCardsServer.csproj", "{7A69C3E8-1B1C-40EB-9CEF-E2B0170CBBC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPSCardsClient", "RPSCardsClient\RPSCardsClient.csproj", "{34D8BA2E-5B98-4E33-9C9D-D42EF60DC353}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkDataTypes", "NetworkDataTypes\NetworkDataTypes.csproj", "{20309265-016C-4778-8190-12B9A5658A1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPSCardsEngine.UnitTests", "RPSCardsData.UnitTests\RPSCardsEngine.UnitTests.csproj", "{5C2D8655-8D86-4922-9E4E-FCFD855E9D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSCardsEngine.API", "RPSCardsEngine.API\RPSCardsEngine.API.csproj", "{B0057ADC-FE38-4775-92FA-CC49B513C63B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSCardsEngine", "RPSCardsEngine\RPSCardsEngine.csproj", "{3832FC04-CE4D-4BBA-BAE8-ABD8D9DFDDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A69C3E8-1B1C-40EB-9CEF-E2B0170CBBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A69C3E8-1B1C-40EB-9CEF-E2B0170CBBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A69C3E8-1B1C-40EB-9CEF-E2B0170CBBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A69C3E8-1B1C-40EB-9CEF-E2B0170CBBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D8BA2E-5B98-4E33-9C9D-D42EF60DC353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D8BA2E-5B98-4E33-9C9D-D42EF60DC353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D8BA2E-5B98-4E33-9C9D-D42EF60DC353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D8BA2E-5B98-4E33-9C9D-D42EF60DC353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20309265-016C-4778-8190-12B9A5658A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20309265-016C-4778-8190-12B9A5658A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20309265-016C-4778-8190-12B9A5658A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20309265-016C-4778-8190-12B9A5658A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C2D8655-8D86-4922-9E4E-FCFD855E9D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2D8655-8D86-4922-9E4E-FCFD855E9D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2D8655-8D86-4922-9E4E-FCFD855E9D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2D8655-8D86-4922-9E4E-FCFD855E9D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0057ADC-FE38-4775-92FA-CC49B513C63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0057ADC-FE38-4775-92FA-CC49B513C63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0057ADC-FE38-4775-92FA-CC49B513C63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0057ADC-FE38-4775-92FA-CC49B513C63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3832FC04-CE4D-4BBA-BAE8-ABD8D9DFDDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3832FC04-CE4D-4BBA-BAE8-ABD8D9DFDDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3832FC04-CE4D-4BBA-BAE8-ABD8D9DFDDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3832FC04-CE4D-4BBA-BAE8-ABD8D9DFDDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CC432BC-23F3-4698-9F04-766614D8DF3B}
+	EndGlobalSection
+EndGlobal

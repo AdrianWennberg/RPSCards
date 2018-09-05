@@ -1,0 +1,7 @@
+
+namespace RPSCardsServer
+{
+    interface IGame
+    {
+    }
+}
