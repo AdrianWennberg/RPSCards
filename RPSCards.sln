@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPSCardsClient", "RPSCardsC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkDataTypes", "NetworkDataTypes\NetworkDataTypes.csproj", "{20309265-016C-4778-8190-12B9A5658A1E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPSCardsEngine.UnitTests", "RPSCardsData.UnitTests\RPSCardsEngine.UnitTests.csproj", "{5C2D8655-8D86-4922-9E4E-FCFD855E9D54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPSCardsEngine.UnitTests", "RPSCardsEngine.UnitTests\RPSCardsEngine.UnitTests.csproj", "{5C2D8655-8D86-4922-9E4E-FCFD855E9D54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSCardsEngine.API", "RPSCardsEngine.API\RPSCardsEngine.API.csproj", "{B0057ADC-FE38-4775-92FA-CC49B513C63B}"
 EndProject
